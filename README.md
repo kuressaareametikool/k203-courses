@@ -1,2 +1,2 @@
 # k203-courses
-Online learning materials for innovatsioonilabor equipment in k203
+Online learning materials for innovatsioonilabor in k203
