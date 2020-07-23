@@ -52,7 +52,13 @@ import {
       <f-fetch :src="[
           'index.md'
         ]" v-slot="{ value: content }">
-        <f-content-editor type="slides" edit="none" typebutton="false" title="GoPro360" menu="show" :content="content" />
+        <f-content-editor 
+            type="slides" 
+            edit="none" 
+            typebutton="false" 
+            title="GoPro360" 
+            menu="show" 
+            :content="content" />
       </f-fetch>
   
       
