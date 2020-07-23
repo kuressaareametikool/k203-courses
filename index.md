@@ -27,8 +27,8 @@
 ### 1.
 
 - GoPro Fusionist
-- failide transport
 - juhtimine mobiiliäpiga
+- failide transport
 
 -
 
@@ -52,6 +52,17 @@
 
 ---
 
-| section: GoPro 360 kaamera ylevaade
+| chapter: GoPro Fusion 360
+| section: Kaamera tutvustus
+| 1 2
+| cols: 3fr 1fr
 
-# This is slide numero two
+# GoPro Fusion
+
+Käesolev õppematerjal baseerub GoPro Fusion kaameral. 
+
+-
+
+<figure style="display:flex; flex-direction:column; justify-content:center; align-items:center; margin:0; position:sticky; top:35vh;">
+  <img src="./img/gopro-fusion.jpg" />
+</figure>
