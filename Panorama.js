@@ -1,4 +1,4 @@
-import {Vue} from "https://designstem.github.io/fachwerk/fachwerk.js";
+import {Vue, Css} from "https://designstem.github.io/fachwerk/fachwerk.js";
 
 Vue.config.ignoredElements = [
   "a-scene", "a-cursor", "a-sky", "a-camera", "a-light", "a-entity"
@@ -11,7 +11,7 @@ export default {
     tint: { default: "hsl(0, 100%, 100%)", type: [String] },
     animated: { default: false, type: [Boolean] },
   },
-  // mixins: [Css],
+  mixins: [Css],
   // cssprops: {
   //   "--panowidth": {
   //      default: "100%",
@@ -40,10 +40,9 @@ export default {
       <!-- <slot /> -->
     </a-scene>
   `,
-  // css: `
-  //   .f-panorama__container a-scene {
-  //     width: var(--panowidth);
-  //     height: var(--panoheight);
-  //   }
-  // `
+  css: `
+  html.a-fullscreen body{
+    overflow: auto !important;
+  }
+  `
 }

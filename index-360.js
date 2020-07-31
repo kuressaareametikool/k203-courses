@@ -17,6 +17,12 @@ import {
   // Vue.component("custom-component", CustomComponent);
   import Panorama from "./Panorama.js";
   Vue.component("panorama", Panorama);
+  
+  import StyleHack from "./StyleHack.js";
+  Vue.component("stylehack", StyleHack);
+  
+  import StyleHackFp from "./StyleHackFp.js";
+  Vue.component("stylehackfp", StyleHackFp);
 
 
   // Set up a global event bus
@@ -50,7 +56,7 @@ import {
       </div> -->
     
       <f-fetch :src="[
-          'index.md'
+          'index.md', '360-photo.md'
         ]" v-slot="{ value: content }">
         <f-content-editor 
             type="slides" 

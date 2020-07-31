@@ -11,7 +11,7 @@
     <h3 style="margin-top:0">GoPro Fusion näitel</h3>
 </div>
 
-<f-next-button style="position:fixed; left:15vmin; bottom:15vmin;" title="Alustame" />
+<f-next-button style="position:fixed; left:15vmin; bottom:15vmin;" title="Alustame" /><stylehackfp />
 
 ---
 
@@ -76,6 +76,8 @@
 Kursuse läbimiseks on vajalik piisav **inglise keele oskus**, et tutvuda lingitud materjalide, juhendite ja õppevideotega. Samuti on inglise keelsed kasutatava tarkvara kasutajaliidesed.
 
 </blockquote>
+
+<stylehack />
 
 
 ---
@@ -215,3 +217,7 @@ Peale rakenduste installeerimist ja kaameraga ühendamist saab kaamerat juhtida 
 &nbsp;
 
 Lisaks on <f-link to="https://youtu.be/DBqPUuQQb1Y?t=655">siin üks video</f-link>, kus käsitletakse pisut täpsemalt telefoni ja kaamera esmakordset ühendamist.
+
+
+
+---
