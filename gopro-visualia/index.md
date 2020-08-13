@@ -1,10 +1,12 @@
 | chapter: Sissejuhatus
-| section: Alustame
-| theme: blue
+| Title: Alustame
+| theme: dark
 | padding: 0
 
-<panorama src="./img/pano.jpg" rotation="0 60 0" tint="hsl(30, 80%, 50%)"  />
+<Panorama src="./img/pano.jpg" rotation="0 60 0" tint="hsl(30, 80%, 50%)"  />
 
+
+# Alustame
 
 <div style="position:absolute; top:0; left:0; width:100vw; height:100vh; pointer-events:none; display:flex; justify-content:flex-start; flex-direction:column; padding:15vmin">
     <h1>360° kaamera kasutamine</h1>
@@ -32,7 +34,7 @@
 | 2 2 3 3 4 4
 | 5 5 5 6 6 6
 
-## Kursuse teemad
+# Kursuse teemad
 
 -
 

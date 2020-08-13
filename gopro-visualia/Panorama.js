@@ -1,8 +1,9 @@
-import {Vue, Css} from "https://designstem.github.io/fachwerk/fachwerk.js";
+  // import {Vue, Css} from "https://designstem.github.io/fachwerk/fachwerk.js";
+  // import {Vue} from "https://visualia.github.io/visualia/dist/visualia.js";
 
-Vue.config.ignoredElements = [
-  "a-scene", "a-cursor", "a-sky", "a-camera", "a-light", "a-entity"
-];
+  // Vue.config.ignoredElements = [
+  //   "a-scene", "a-cursor", "a-sky", "a-camera", "a-light", "a-entity"
+  // ];
 
 export default {
   props: {
@@ -11,7 +12,7 @@ export default {
     tint: { default: "hsl(0, 100%, 100%)", type: [String] },
     animated: { default: false, type: [Boolean] },
   },
-  mixins: [Css],
+    // mixins: [Css],
   // cssprops: {
   //   "--panowidth": {
   //      default: "100%",
@@ -32,12 +33,11 @@ export default {
 
       <a-sky 
         :src="src" 
-        :rotation="rotation" 
+        rotation="rotation" 
         :animation="animated ? 'property: rotation; to:0 410 0; loop: true; dur: 80000;' : 'none'"
         :color="tint">
       </a-sky>
       <!-- <a-light type="ambient" color="#ff0000"></a-light> -->
-      <!-- <slot /> -->
     </a-scene>
   `,
   css: `
