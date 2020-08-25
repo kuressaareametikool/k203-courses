@@ -23,10 +23,10 @@ export default {
   //   },
   // },
   template: `
-    <a-scene class="f-aframe">
+    <a-scene embedded>
       <a-entity id="rig" rotation="0 0 0">  
-        <a-camera fov="80">
-          <!-- <a-cursor /> -->
+        <a-camera fov="80" look-controls="reverseMouseDrag: true">
+          <a-cursor />
         </a-camera>
       </a-entity>
 

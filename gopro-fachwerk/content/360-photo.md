@@ -1,5 +1,5 @@
 
-| chapter: 360° fotod
+| chapter: 360° foto
 | section: Järeltöötlus Photoshopis
 
 

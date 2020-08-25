@@ -56,7 +56,7 @@ import {
       </div> -->
     
       <f-fetch :src="[
-          'index.md', '360-photo.md'
+          './content/introduction.md', './content/360-photo.md', './content/360-video.md'
         ]" v-slot="{ value: content }">
         <f-content-editor 
             type="slides" 
