@@ -24,7 +24,8 @@ export default {
   // },
   template: `
     <a-scene embedded>
-      <a-entity id="rig" rotation="0 0 0">  
+      <a-entity id="rig" :rotation="rotation" 
+        :animation="animated ? 'property: rotation; to:0 410 0; loop: true; dur: 80000;' : 'none'">  
         <a-camera fov="80" look-controls="reverseMouseDrag: true">
           <a-cursor />
         </a-camera>
@@ -32,8 +33,6 @@ export default {
 
       <a-sky 
         :src="src" 
-        :rotation="rotation" 
-        :animation="animated ? 'property: rotation; to:0 410 0; loop: true; dur: 80000;' : 'none'"
         :color="tint">
       </a-sky>
       <!-- <a-light type="ambient" color="#ff0000"></a-light> -->

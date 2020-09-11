@@ -12,6 +12,12 @@
 
 Siin mängisin ma kaamera ees läbi ühe võtteprotsessi. 
 
+<blockquote>
+
+NB! Video seadete puhul on oluline märkida kahte erinevat resolutsiooni - 5.2K ja 3K. Lisaks erinevale suurusele on neil videotel ka erinev kaadrisagedus: 5.2K on 30 kaadrit sekundis, aga 3K 50 kaadrit sekundis (fps). Suurem resolutsioon on oluline parema pildikvaliteedi tagamiseks, aga suurem kaadrisagedus tagab sujuvama liikumise.
+
+</blockquote>
+
 Võtte käigus kasutan **eraldi helisalvestit**. Seda muidugi ei pea alati tegema (võib piirduda GoPro enda mikrofoni heliga või pole originaalheli üldse vaja), aga teinekord võib olla heli eraldi salvestamine vajalik. Olgu see siis siin ära toodud.
 
 Kui ringi liikudes on kaamera meil eeldatavasti käes, on küsimus, kuidas või kuhu helisalvesti kinnitada. Paraku ei ole meil hetkel selle jaoks kasutada eraldi rinnamikrofone vms "päris" seadmeid. Videos näha olev känguru-koti meetod oleks töötanud päris hästi kui mikrofon poleks jäänud liikumisel vastu koti luku serva krabisema. Ilmselt piisaks kui näiteks pehme rätikuga salvesti jaoks kotti kena pesakese oleks teinud, mis edasi-tagasi kõikumist takistanuks. 
