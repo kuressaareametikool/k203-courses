@@ -66,4 +66,36 @@ Pluginad
 
 https://community.gopro.com/t5/en/GoPro-FX-Reframe/ta-p/412890
 
-Belaar sibul
+---
+
+
+
+
+| section: 360 video kokku lõikamine
+
+360 Video edimine
+
+sellest on video/screencast
+
+---
+
+
+
+| section: Reframe ehk Overshoot
+
+GoPro FX Reframe plugina abil nn tavavideo loomine
+
+sellest on video
+
+---
+
+
+
+
+
+
+| chapter: Lisaks
+| section: Linke, inspiratsiooni jne
+
+jne
+
