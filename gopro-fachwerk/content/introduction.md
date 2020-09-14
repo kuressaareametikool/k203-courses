@@ -30,17 +30,18 @@
 
 -
 
-Käesolev kursus on loodud [siia inff projekti ja rahastaja jne kohta]  raames Kuressaare Ametikooli, Kuressaare Vanalinna kooli ja Saaremaa ühisgümnaasiumi yadda yadda ma ei tea veel kuidas seda sõnastada.
+Koolitust toetatakse projektist **"Kaasaegse ja uuendusliku õppevara arendamine ja kasutuselevõtt"** 
+"Innovatsioonilabor (2018-2021)"
 
-[Siia paneme rahastaja logo kui vaja]
+<f-image src="./img/el_struktuuri-ja-investeerimisfondid__hor.svg" style="--image-height:50vh; --image-min-height: 300px; --image-size:contain; --image-position: center; max-width:300px;" />
 
 -
 
 #### Sihtgrupp
 
-Esmane sihtgrupp on eelmainitud koolide õpetajad. **Kursuse eesmärgiks on olla abiks õpetajatele esimeste sammude tegemisel 360° piltide ja videote kasutamisel õppetöös**.
+Esmane sihtgrupp on Kuressaare ametikooli, Kuressaare Vanalinna kooli ja Saaremaa ühisgümnaasiumi koolide õpetajad. **Kursuse eesmärgiks on olla abiks õpetajatele esimeste sammude tegemisel 360° piltide ja videote kasutamisel õppetöös**. Teine sihtgrupp on kõik teemast huvitunud.
 
-Kursuse käigus keskendume ühes konkreetses laboris kasutusel olevatele riist- ja tarkvaralistele vahenditele, mistõttu kohati võib asi minna spetsiifiliseks, ent samas peaks siit saama ka mingi üldisema ülevaate teemast. Tööprotsess teiste analoogsete vahenditega on laias laastus sama. 
+Kursuse käigus keskendume Kuressaare ametikooli Innovatsioonilaboris kasutusel olevatele riist- ja tarkvaralistele vahenditele ja ka juhendid on just neist lähtuvad ent samas peaks huviline siit saama ka üldisema ülevaate teemast. Tööprotsess teiste analoogsete vahenditega on laias laastus sama. 
 
 #### Autor
 
@@ -134,7 +135,7 @@ Allpool on näha mõlemad variandid, mis on kokku pandud samast 360° materjalis
 
 -
 
-#### Variant 1 
+#### 1. variant 
 
 Loome **VR foto või video, kus vaataja saab ümberringi vaadata**. Kuna 360-kaamera salvestab korraga kõike meie ümber, saab vaataja keerulisemate protsesside jälgimisel **ise valida, millele keskenduda** või materjali mitmekordsel vaatamisel keskenduda protsessi **erinevatele osadele**. 
 Parima nn "kohaloleku kogemuse" saab spetsiaalsete VR seadmete abil.
@@ -147,7 +148,7 @@ Parima nn "kohaloleku kogemuse" saab spetsiaalsete VR seadmete abil.
 
 -
 
-#### Variant 2
+#### 2. variant
 
 Nö "tavaline" foto/video: autor otsustab **montaaži käigus**, mida vaatajale näidata ja mida mitte. Või siis on hiljem montaaži käigus võimalik võrrelda **samal ajal mitmes eri suunas** toimunut, ekraani kaheks jagades või mitu korda eri rakursside alt näidates.
 Lõpptulemus on kõige tavalisem videofail.
