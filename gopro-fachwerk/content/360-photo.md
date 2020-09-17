@@ -1,6 +1,7 @@
 
 | chapter: 360° foto
 | section: Pildistamine
+| id: pildistamine
 | cols: 2fr 3fr
 | 1 1
 | 2 2
@@ -119,6 +120,7 @@ Märkus iseendale: Tegelikult võiks läbi käia ka lisagrafika lisamise 3d pild
 | 1 1
 | 2 3
 | 4 5
+| 6 7
 
 ## 360° virtuaaltuur
 
@@ -137,16 +139,40 @@ Veebis on mitmeid virtuaaltuuride arendamise keskkondi - suuremate ja vähemate 
 -
 
 <div class="video-responsive">
-    <iframe src="https://www.youtube.com/embed/FCWNDtGeWFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+    <iframe src="https://www.youtube.com/embed/AuZTKincdL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
+
+&nbsp;
 
 -
 
 #### Alternatiivsed teenused
 
-Saagu siia siis väike nimekiri alternatiivsetest teenustest.
+Saagu siia siis väike nimekiri alternatiivsetest teenustest. Keskendun esmajoones neile, millel on olemas ka mingi tasuta versioon. Muidugi ei ole see nimekiri lõplik - teenused tekivad ja kaovad, tasub ise lisa otsida. Esmalt siis teenused, mis ei nõua kodeerimisoskust.
 
 -
 
-- essa
-- Tessa
+- <f-link to="https://ocurus.com/">Ocurus</f-link>
+- <f-link to="https://www.cloudpano.com/">CloudPano</f-link>
+- <f-link to="https://kuula.co/">Kuula</f-link>
+- <f-link to="https://roundme.com/">Roundme</f-link>
+- <f-link to="https://www.theasys.io/">Theasys</f-link> 
+- <f-link to="https://nocknock.io/">NockNock</f-link> 
+- <f-link to="https://lapentor.com/">Lapentor</f-link> 
+- <f-link to="https://panoroo.com/">Panoroo</f-link>
+- <f-link to="https://www.marzipano.net/">Marzipano</f-link> - <small>open source; tuuride loomiseks on lihtne ja mõnus keskkond, aga vajab kasutajapoolset serverilahendust; seega on mõnes mõttes nagu üleminekuvariant nimekirja esimese ja teise poole vahel</small>
+
+-
+
+#### Javascripti-põhised lahendused
+
+Muidugi, niipea kui mängu tuleb kodeerimine, on võimalused lõputud. Aga ka kodeerimiskursust me praegu siin ei loo. Vast järgmine kord. Mõned lingid soojenduseks siiski...
+
+-
+
+- <f-link to="https://aframe.io/examples/showcase/sky/">A-Frame</f-link>
+- <f-link to="https://pchen66.github.io/Panolens/">Panolens</f-link>
+- <f-link to="https://pannellum.org/">Pannellum</f-link>
+- <f-link to="http://forgejs.org/">ForgeJS</f-link>
+- <f-link to="https://facebook.github.io/react-360/">React 360</f-link>
+- jne

@@ -481,7 +481,7 @@ Häälkäsklused on olemas lisaks veel saksa, prantsuse, itaalia, portugali, his
 
 
 
-
+| id: failide-import-kaamerast
 | section: Failide import kaamerast
 | cols: 2fr 3fr
 | 1 1
