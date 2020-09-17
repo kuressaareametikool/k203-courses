@@ -3,6 +3,7 @@ import {
     components,
     utils
   } from "https://designstem.github.io/fachwerk/fachwerk.js";
+// } from "http://127.0.0.1:5502/fachwerk.js";
   
   // Register components globally
   

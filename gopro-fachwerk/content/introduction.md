@@ -3,7 +3,7 @@
 | theme: blue
 | padding: 0
 
-<panorama src="./img/pano-summer__opt.jpg" rotation="0 -140 0" tint="hsl(30, 80%, 50%)"  />
+<panorama src="./img/pano-summer__opt.jpg" rotation="0 -140 0" tint="hsl(35, 85%, 65%)"  />
 
 <div style="position:absolute; top:0; left:calc(250px + 2vmin); height:80vh; pointer-events:none; display:flex; justify-content:flex-start; flex-direction:column; padding:10vmin;">
     <h1>360° kaamera kasutamine</h1>
@@ -13,6 +13,78 @@
 <f-next-button style="position:fixed; left:calc(250px + 2vmin + 10vmin); bottom:15vmin;" title="Alustame" />
 
 ---
+
+
+
+
+
+
+
+| section: Miks?
+| 1 1 1
+| 2 3 4
+| 2 5 6
+| 2 7 8
+
+
+## Miks seda vaja on? 🤷‍♂️
+
+-
+
+Et mitte heietada pikalt tehnoloogia haridusse kaasamine olulisuse jne jne teemadel, saagu siia lihtsalt mõni näide 360° pildi-ja videomaterjalist, mida võiks kasutada näiteks ühiskonnaõpetuse, (kunsti)ajaloo, bioloogia, füüsika tundides või erinevate ametite õppimisel. 
+
+Tihti jääb pilt vaeslapse ossa, sest video tundub sedavõrd atraktiivsem. Saagu siia siis kõigepealt näideteks kolme pildipõhise virtuaaltuuri lingid. 
+
+- <f-link to="https://poly.google.com/view/94zDvqj44v6">The Deported: Life Beyond the Border</f-link>
+- <f-link to="https://poly.google.com/view/eICrIbc_6NL">Photosynthesis</f-link>
+- <f-link to="https://poly.google.com/view/15nBsEH2H2q">Urbanization and Gender Inequality</f-link>
+
+Me ei pea tingimata minema ookeani põhja või kosmosesse, piisab sellest kui kunstiajaloo või bioloogia huvilisel on 360° kaamera mõnes Euroopa kunstimetropolis või kõrbematkal kaasas, et selle läbi vaatajale tavalisest pildist/videost pisut rohkem endasse haaravamat kogemust edasi anda. 
+
+Kursuse lõpuks on kõigil meist taoliste materjalide loomise esmased teadmised olemas. 
+
+-
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/tOAvffXyRAs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
+
+-
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/vxH0WyDtQBA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
+
+-
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/KxcqjSrGUgg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
+
+-
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/d_OeQxoKocU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
+
+-
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/YCKF6LeRD3Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
+
+-
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/c53PhSc1Yeo?start=43" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
+
+
+
+---
+
+
+
 
 
 
@@ -113,6 +185,12 @@ Kursuse läbimiseks on vajalik mõningane **inglise keele oskus**, et tutvuda li
 
 
 
+
+
+
+
+
+
 | chapter: Kaamerast
 | section: 360°-kaamerad
 | rows: auto
@@ -122,8 +200,6 @@ Kursuse läbimiseks on vajalik mõningane **inglise keele oskus**, et tutvuda li
 | 6 7
 
 ## 360° kaamera
-
-&nbsp;
 
 -
 
@@ -150,7 +226,7 @@ Parima nn "kohaloleku kogemuse" saab spetsiaalsete VR seadmete abil.
 
 #### 2. variant
 
-Nö "tavaline" foto/video: autor otsustab **montaaži käigus**, mida vaatajale näidata ja mida mitte. Või siis on hiljem montaaži käigus võimalik võrrelda **samal ajal mitmes eri suunas** toimunut, ekraani kaheks jagades või mitu korda eri rakursside alt näidates.
+Nö "tavaline" foto/video: **autor ise otsustab montaaži käigus**, mida vaatajale näidata ja mida mitte. Või on hiljem montaaži käigus võimalik võrrelda **samal ajal mitmes eri suunas** toimunut, ekraani ühes videos mitmeks jagades või mitu erinevat videot luues.
 Lõpptulemus on kõige tavalisem videofail.
 
 -
@@ -172,8 +248,6 @@ Lõpptulemus on kõige tavalisem videofail.
 
 
 ## GoPro Fusion kaamera
-
-&nbsp;
 
 -
 
@@ -211,12 +285,12 @@ Lisame ka ühe sissejuhatava video, ent põhjalikum huviline saab muidugi omal k
 
 
 
-| section: Käsitlemine
+| section: Käsitsemine
 | 1 3
 | 2 3
 | cols: 3fr 2fr
 
-## Käsitlemine
+## Käsitsemine
 
 Kuna GoPro keskendub nn action- ja spordikaamerate tootmisele, on tegemist üsna vastupidava ja lihtsa seadmega. Nagu ikka, on kaamera kõige õrnemaks detailiks läätsed. 360-kaamerate eripära tõttu tungivad need korpusest "kalasilmana" esile, mistõttu on **oluline jälgida kaamera asendit** kui see ilma vutlarita kõvale pinnale asetada.
 
@@ -232,9 +306,7 @@ Kaamera küljes on enamasti ka **kolmjalg**, millele saab seadme mugavalt asetad
 
 -
 
-#### &nbsp;
-
-
+Kaamera **aku laadimine** ja **failide import** toimub tavalise **USB-C** laadija või kaabli abil
 
 -
 
@@ -252,20 +324,17 @@ Kaamera küljes on enamasti ka **kolmjalg**, millele saab seadme mugavalt asetad
 
 
 
-
-
-
-
-
 | section: Seadistamine
-| 1 2 2
-| 3 4 5
+| 1 1 1
+| 2 3 3
+| 4 5 6
 
-## Fusioni seadis&shy;tamine
+## <img src="./img/icon-settings-bg.svg" class="gopro-icon" /> Fusioni seadis&shy;tamine
 
+-
 
 Kaamera korpusel on kaks nuppu, 
-<img src="./img/gopro-button__mode.svg" class="gopro-icon" /> [mode] ja <img src="./img/gopro-button__shutter.svg" class="gopro-icon" /> [shutter]. 
+<img src="./img/gopro-button__mode.svg" class="gopro-button" /> [mode] ja <img src="./img/gopro-button__shutter.svg" class="gopro-button" /> [shutter]. 
 
 **[Mode]** nupp on kaamera sisse-välja lülitamiseks ja menüüdes liikumiseks. **[Shutter]** on päästik pildistamiseks ja menüüdes valikute kinnitamiseks. Fusionit on võimalik nende kahe nupu abil seadistada. 
 
@@ -301,11 +370,14 @@ Nagu ikka, on kogu see informatsioon enamasti juba kusagil olemas. Lisan mõne v
 
 
 | section: Mobiilirakendus
-| 1 2 2
-| 3 4 5
+| 1 1 1
+| 2 3 3
+| 4 5 6
 
 
-## Mobiili&shy;rakendus
+## <img src="./img/icon-connect-bg.svg" class="gopro-icon" /> Mobiili&shy;rakendus
+
+-
 
 Kahe kaamera küljes oleva nupu abil Fusioni seadistamine on küll lollikindel, aga üsna tüütu protsess, eriti kui seda tihti teha vaja on. Siin tulevad meile appi GoPro mobiilirakendused. 
 
@@ -354,13 +426,13 @@ Vahel on probleeme kaamera ja telefoni (enamasti esmakordsel) ühendamisel. Siin
 | 2 3
 | 4 4
 
-## Hääl&shy;käsklused 🙊
+## <img src="./img/icon-voice-bg.svg" class="gopro-icon" /> Hääl&shy;käsklused
 
 -
 
-Lisaks mobiilirakendusele, saab Fusioniga distantsilt suhelda ka häälkäskluste abil. Kui siiski tundub, et kaamera ei taha käsku täita, tuleks seadetest kontrollida, kas vastav **funktsioon on sisse lülitatud**. Või siis hääldamist harjutada.
+Lisaks mobiilirakendusele, saab Fusioniga distantsilt suhelda ka häälkäskluste abil. Kui siiski tundub, et kaamera ei taha käsku täita, tuleks seadetest kontrollida, kas vastav **funktsioon on sisse lülitatud**. Või siis hääldamist harjutada. 🙊 
 
-Ja taas jutu toetuseks videopilti ka. Häälkäsklused töötavad väga sarnaselt paljude GoPro seadetega, sestap ei maksa end eksitada lasta, et siin videos on härral käes üks teine kaamera.
+Häälkäsklused töötavad väga sarnaselt paljude GoPro seadetega, sestap ei maksa end eksitada lasta, et siin juures olevas videos on härral käes üks teine kaamera.
 
 Toon allpool välja inglise ja vene keelsed käsklused koos väikese selgitusega. Polüglotid leiavad ülejäänud keelte kohta lisainfot tabeli alt.
 
@@ -409,6 +481,51 @@ Häälkäsklused on olemas lisaks veel saksa, prantsuse, itaalia, portugali, his
 
 
 
+
 | section: Failide import kaamerast
+| cols: 2fr 3fr
+| 1 1
+| 2 3
+| 4 5
+| 6 6
 
 ## Failide import ja renderdamine
+
+-
+
+Kui pildid-videod üles võetud, on vaja need kuidagi kaamerast arvutisse saada, et midagi edasi teha. 
+Selle jaoks on GoPro loonud rakenduse **GoPro Fusion Studio.**
+
+Vajadusel leiad siit enda masinasse installeerimiseks <f-link to="https://gopro.com/en/us/shop/softwareandapp/exporter-for-gopro-fusion-camera-formerly-gopro-fusion-studio-app/fusion-studio.html">Windowsi ja Maci versioonid</f-link>
+
+Siin kõrval videos* räägime pisut GoPro Studio abil kaamerast failide impordist ja renderdamisest.
+
+<details>
+
+<summary>Vigade parandus ja üks idee</summary>
+
+<small style="line-height:1">Videost läbi käiva mõiste <var>equirectangular projection</var> eesti vaste paistab olevat <var>täisnurkprojektsioon</var> <small>[<f-link to="https://taltech.ee/kursus/21885">TalTech</f-link>]</small>. Lisaks selgitan ma selle projektsiooni olemust ka mõnevõrra vildakalt lahti. Samas ei ole kaameraga töötamiseks seda kõike otseselt vaja teada, mistõttu jätaks teema praegu sinnapaika, huviline võib ise lisa otsida.
+Ometi tekkis siit idee, et 360-piltide abil saaks ehk kenasti ka taoliste projektsioonide olemust õpilastele selgitada? Kogu see geomeetria osa, mis seal toimub.</small>
+    
+</details>
+
+
+-
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/e1FHxezP8TM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
+
+-
+
+Esimeses videos pole käsitletud varianti, kus failid ei asu mitte enam kaameras vaid juba meie tööarvutis. Kaamerast on võimalik SD kaardid välja võtta ja sealt algfailid arvutisse kopeerida ning siis juba otse rakendusega avada. Mõnes mõttes on see lollikindlam, ehkki rohkem tuleb teha "käsitööd". Sobib võib-olla paremini edasijõudnuile.
+
+-
+
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/kCXj20fi5v4?start=169" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
+
+-
+
+PS: Uuemate GoPro kaamerate jaoks on kasutusel juba teised rakendused, lisainfot leiab <f-link to="https://community.gopro.com/t5/en/GoPro-MAX-Exporter/ta-p/413311">nende lehelt</f-link>. Sama lugu kõikide teiste tootjate kaameratega.
