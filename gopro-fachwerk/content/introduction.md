@@ -1,4 +1,4 @@
-| chapter: Sissejuhatus
+| chapter: ⭐Sissejuhatus
 | section: Avaleht
 | theme: blue
 | padding: 0
@@ -191,7 +191,7 @@ Kursuse läbimiseks on vajalik mõningane **inglise keele oskus**, et tutvuda li
 
 
 
-| chapter: Kaamerast
+| chapter: ⭐Kaamerast
 | section: 360°-kaamerad
 | rows: auto
 | 1 1
@@ -481,6 +481,8 @@ Häälkäsklused on olemas lisaks veel saksa, prantsuse, itaalia, portugali, his
 
 
 
+
+
 | id: failide-import-kaamerast
 | section: Failide import kaamerast
 | cols: 2fr 3fr
@@ -529,3 +531,54 @@ Esimeses videos pole käsitletud varianti, kus failid ei asu mitte enam kaameras
 -
 
 PS: Uuemate GoPro kaamerate jaoks on kasutusel juba teised rakendused, lisainfot leiab <f-link to="https://community.gopro.com/t5/en/GoPro-MAX-Exporter/ta-p/413311">nende lehelt</f-link>. Sama lugu kõikide teiste tootjate kaameratega.
+
+
+---
+
+
+
+
+
+
+| section: Failide kustutamine
+| cols: 1fr 2fr
+| 1 1
+| 2 3
+
+## Failide kustutamine
+
+-
+
+Töötades ühiste kaameratega on alati **kena tava oma failid SD-kaartidelt ära kustutada**. Tore on see, et Fusioni puhul on see tehtud **põnevaks nuputamis&shy;ülesandeks**.
+
+Vist kõige lihtsam viis ainult kaamerat ennast kasutades, on **kaardid re-formattida**, ehkki ka selleni jõudmine nõuab pisut pusimist.
+
+Siin vastav väljavõte inglise keelsest kasutusjuhendist.
+
+-
+
+<img src="./img/reformat-sd.png" />
+
+
+---
+
+
+
+
+
+
+
+| section: ▶ Ülesanne 1
+| theme: blue
+
+<center>
+
+Ülesanne 1
+
+## ~Võta kaamera, vajuta kõiki nuppe ja vaata mis juhtub~
+
+~Tee pilti; tee videot; installeeri telefoni Gopro äpp ja proovi kaameraga ühendust saada; katseta häälkäsklusi; ühenda kaamera arvutiga; tõmba pildid/videod arvutisse; jaga neid sõpradega; alusta otsast peale;~
+
+~Kustuta kaamerast failid ära ka.~
+
+</center>

@@ -1,5 +1,5 @@
 
-| chapter: 360° foto
+| chapter: ⭐360° foto
 | section: Pildistamine
 | id: pildistamine
 | cols: 2fr 3fr
@@ -82,11 +82,15 @@ Teinekord tahame me kaamerast tulevaid pilte pisut töödelda. Vaatame paari var
 Failide arvutisse importimise teemas on juttu kergest värvikorrektsioonist, mida pakub meile Gopro Fusion Studio. 
 Kui me tahame piltide värve või hele-tumedusi veel peale seda korrigeerida, saame me seda pilditöötlus&shy;tarkvara abil muidugi teha. 
 
-Kuna ma püüan läbivalt kasutada ainult kõige lihtsamaid võtteid, siis ei hakkaks siin üldse mingeid ülearendatud ja -hinnatud programme kasutama vaid püüaks puhtalt veebibrauseris hakkama saada. 
+Kuna ma püüan läbivalt kasutada ainult kõige lihtsamaid võtteid, siis ei hakkaks siin üldse mingeid ülearendatud ja -hinnatud programme kasutama vaid püüaks puhtalt veebibrauseris hakkama saada. Video siin juures just sellest teemast räägibki.
+
+Tööriistaks <f-link to="https://photopea.com">Photopea</f-link>
 
 -
 
-Siia tuleb video. Lausa Photopea vist saab olema.
+<div class="video-responsive">
+    <iframe src="https://www.youtube.com/embed/3_X92HAijHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+</div>
 
 -
 
@@ -176,3 +180,45 @@ Muidugi, niipea kui mängu tuleb kodeerimine, on võimalused lõputud. Aga ka ko
 - <f-link to="http://forgejs.org/">ForgeJS</f-link>
 - <f-link to="https://facebook.github.io/react-360/">React 360</f-link>
 - jne
+
+---
+
+
+
+
+
+
+
+| section: ▶ Ülesanne 2
+| theme: blue
+
+<center>
+
+Ülesanne 2
+
+## ~Loo enda tehtud 360° piltidest virtuaaltuur~
+
+~Tuuri teema ja loomise keskkond vali ise.~
+
+<f-hr style="width:100%; margin-top:5vh;" />
+
+
+<f-inline>
+    
+Lisaküsimus: millistest Fusioni kaameraga 360° foto tegemise moodustest siin materjalis peaaegu üldse juttu ei ole?
+
+<details style="text-align:left;">
+
+<summary>Vastus</summary>
+
+&nbsp;
+
+- Time-lapse
+- Burst ja 
+- Night-photo
+
+</details>
+
+</f-inline>
+
+</center>

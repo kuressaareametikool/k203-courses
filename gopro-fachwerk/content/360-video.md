@@ -1,5 +1,5 @@
 
-| chapter: 360° video
+| chapter: ⭐360° video
 | section: Video seaded
 | 1 1
 | 2 3
@@ -22,7 +22,6 @@ Video seadetes on oluline märkida **kahte erinevat resolutsiooni:**.
 
 - **5.2K** resolutsiooniga on kvaliteetsem pilt, ent madalam kaadrisagedus **(25 FPS)**. Enamasti võiks seda kasutada.
 - **3K** pole nii kvaliteetne, ent on kõrgem kaadrisagedus **(50fps)**. Sobib hästi äkilisemate liikumiste salvestamiseks (sport, tants vms)
-
 
 -
 
@@ -135,7 +134,7 @@ Siinne esimene video käsitleb peamiselt projekti ettevalmistust, meediafailide 
 
 Siin loome me eelmises videos tutvustatud materjalist 360-video.
 
-Esimene video käsitleb tööprotsessi Premiere's. 
+Esimene video käsitleb **tööprotsessi** Premiere's. 
 
 -
 
@@ -145,7 +144,7 @@ Esimene video käsitleb tööprotsessi Premiere's.
 
 -
 
-Teine video näitab esimese video käigus loodud tulemust.
+Teine video näitab esimese video käigus loodud **tulemust**.
 
 -
 
@@ -166,21 +165,20 @@ Teine video näitab esimese video käigus loodud tulemust.
 
 -
 
-Siin on aluseks täpselt sama algmaterjal, ent me loome sellest GoPro FX Reframe plugina abil montaaži käigus tavalise videofaili. 
+Siin on aluseks täpselt sama algmaterjal, ent me loome sellest **GoPro FX Reframe plugina** abil montaaži käigus tavalise videofaili. 
 
-Esimene video käsitleb taas tööprotsessi Premiere's. 
-
-***YO! Heli vaikne, renderdada uuesti!***
+Esimene video käsitleb taas **tööprotsessi** Premiere's. 
 
 -
 
 <div class="video-responsive">
-    <iframe src="https://www.youtube.com/embed/HyygFDtk6bg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+    <iframe src="https://www.youtube.com/embed/5JLhFHjdz3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
 -
 
-Ja teine näitab jälle esimese käigus loodud tulemust.
+Ja teine näitab jälle esimese käigus loodud **tulemust**. 
+<small>(paar väikest vigurit sai veel järeltöötluse käigus lisatud, aga põhimõtteliselt on sama video)</small>
 
 -
 
@@ -195,7 +193,7 @@ Ja teine näitab jälle esimese käigus loodud tulemust.
 
 
 
-| chapter: Kokkuvõtteks
+| chapter: ⭐Kokkuvõtteks
 | section: OK
 
 ## Novot siis
