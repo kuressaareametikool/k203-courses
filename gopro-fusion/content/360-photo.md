@@ -1,5 +1,5 @@
 
-| chapter: ⭐360° foto
+| chapter: 360° foto
 | section: Pildistamine
 | id: pildistamine
 | cols: 2fr 3fr
@@ -189,7 +189,7 @@ Muidugi, niipea kui mängu tuleb kodeerimine, on võimalused lõputud. Aga ka ko
 
 
 
-| section: ▶ Ülesanne 2
+| section: ▩ Ülesanne 2
 | theme: blue
 
 <center>

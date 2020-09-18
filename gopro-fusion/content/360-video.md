@@ -1,5 +1,5 @@
 
-| chapter: ⭐360° video
+| chapter: 360° video
 | section: Video seaded
 | 1 1
 | 2 3
@@ -185,6 +185,52 @@ Ja teine näitab jälle esimese käigus loodud **tulemust**.
 <div class="video-responsive">
     <iframe src="https://www.youtube.com/embed/gIoKlTHkqJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
+
+---
+
+
+| section: ▩ Ülesanne 3
+| theme: blue
+
+
+
+<center>
+
+Ülesanne 3
+
+## ~Loo enda tehtud 360° video~
+
+~Jaga seda oma sõprade või õpilastega~
+
+<f-hr style="width:100%; margin-top:5vh;" />
+
+
+<f-inline>
+    
+Lisaküsimus: ...
+
+<details style="text-align:left;">
+
+<summary>Vastus</summary>
+
+&nbsp;
+
+- ...
+- ,,, 
+- :::
+
+</details>
+
+</f-inline>
+
+</center>
+
+
+
+
+
+
+
 ---
 
 
@@ -193,7 +239,7 @@ Ja teine näitab jälle esimese käigus loodud **tulemust**.
 
 
 
-| chapter: ⭐Kokkuvõtteks
+| chapter: Kokkuvõtteks
 | section: OK
 
 ## Novot siis

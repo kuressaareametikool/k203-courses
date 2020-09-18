@@ -1,4 +1,4 @@
-| chapter: ⭐Sissejuhatus
+| chapter: Sissejuhatus
 | section: Avaleht
 | theme: blue
 | padding: 0
@@ -191,7 +191,7 @@ Kursuse läbimiseks on vajalik mõningane **inglise keele oskus**, et tutvuda li
 
 
 
-| chapter: ⭐Kaamerast
+| chapter: Kaamerast
 | section: 360°-kaamerad
 | rows: auto
 | 1 1
@@ -568,7 +568,7 @@ Siin vastav väljavõte inglise keelsest kasutusjuhendist.
 
 
 
-| section: ▶ Ülesanne 1
+| section: ▩ Ülesanne 1
 | theme: blue
 
 <center>
