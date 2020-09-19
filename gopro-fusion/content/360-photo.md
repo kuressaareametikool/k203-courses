@@ -8,7 +8,7 @@
 | 3 4
 | 5 6
 
-## <img src="./img/icon-photo-bg.svg" class="gopro-icon" /> Pildistamine
+## <img src="./img/icon-photo-bg.svg" class="gopro-icon" /> Pildista&shy;mine
 
 -
 
@@ -71,13 +71,13 @@ Video GPR/RAW tööprotsessist
 | 4 5
 | 6 6
 
-## Järeltöötlus
+## Järel&shy;töötlus
 
 Teinekord tahame me kaamerast tulevaid pilte pisut töödelda. Vaatame paari varianti, mis võivad kasulikuks osutuda.
 
 -
 
-#### Värvikorrektsioon
+#### Värvi&shy;korrektsioon
 
 Failide arvutisse importimise teemas on juttu kergest värvikorrektsioonist, mida pakub meile Gopro Fusion Studio. 
 Kui me tahame piltide värve või hele-tumedusi veel peale seda korrigeerida, saame me seda pilditöötlus&shy;tarkvara abil muidugi teha. 
@@ -106,7 +106,7 @@ Siin video, kus on juttu statiivi ja/või selle varju piltidelt eemaldamisest ü
 
 -
 
-Märkus iseendale: Tegelikult võiks läbi käia ka lisagrafika lisamise 3d pildile. Või läheb liiga karmiks?
+
 
 
 ---
@@ -126,7 +126,7 @@ Märkus iseendale: Tegelikult võiks läbi käia ka lisagrafika lisamise 3d pild
 | 4 5
 | 6 7
 
-## 360° virtuaaltuur
+## 360° virtuaal&shy;tuur
 
 -
 
@@ -196,7 +196,7 @@ Muidugi, niipea kui mängu tuleb kodeerimine, on võimalused lõputud. Aga ka ko
 
 Ülesanne 2
 
-## ~Loo enda tehtud 360° piltidest virtuaaltuur~
+## ~Loo enda tehtud 360° piltidest virtuaal&shy;tuur~
 
 ~Tuuri teema ja loomise keskkond vali ise.~
 

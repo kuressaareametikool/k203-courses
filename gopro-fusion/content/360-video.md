@@ -46,7 +46,7 @@ Video seadetes on oluline märkida **kahte erinevat resolutsiooni:**.
 
 -
 
-Siin mängisin ma kaamera ees (kohmakalt ja vigaselt) läbi ühe võtteprotsessi. 
+Siin sai mängitud kaamera ees (kohmakalt ja vigasena) läbi üks võtteprotsess. 
 
 Võtte käigus kasutan **eraldi helisalvestit**. Seda muidugi ei pea alati tegema (võib piirduda GoPro enda mikrofoni heliga või pole originaalheli üldse vaja), aga teinekord võib olla heli eraldi salvestamine vajalik. Olgu see siis ka siin ära toodud.
 
@@ -128,7 +128,7 @@ Siinne esimene video käsitleb peamiselt projekti ettevalmistust, meediafailide 
 | 2 3
 | 4 5
 
-## 360° video töötlemine
+## 360° video töötle&shy;mine
 
 -
 
@@ -161,7 +161,7 @@ Teine video näitab esimese video käigus loodud **tulemust**.
 | 2 3
 | 4 5
 
-## Reframe või Overcapture meetod
+## Reframe või Over&shy;capture meetod
 
 -
 
@@ -198,7 +198,7 @@ Ja teine näitab jälle esimese käigus loodud **tulemust**.
 
 Ülesanne 3
 
-## ~Loo enda tehtud 360° video~
+## ~Tee midagi vahvat!~
 
 ~Jaga seda oma sõprade või õpilastega~
 

@@ -34,6 +34,25 @@
         .cell > h2 {
             margin-bottom: 5vh !important;
         }
+
+        @media (max-width: 800px){
+            .cells {
+                padding: calc(var(--content-padding-w) * 0.5)  !important;
+            }
+            .video-responsive{
+                overflow:visible;
+                padding-bottom:68%;
+                position: relative;
+            }
+            .video-responsive iframe{
+                position:absolute;
+                left:0;
+                top:0;
+                height:100%;
+                width:calc(100% + (var(--content-padding) * 2));
+                margin-left:calc(var(--content-padding) * -1);
+            }
+        }
     </style>
 </head>
 <body>

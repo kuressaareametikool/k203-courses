@@ -290,7 +290,7 @@ Lisame ka ühe sissejuhatava video, ent põhjalikum huviline saab muidugi omal k
 | 2 3
 | cols: 3fr 2fr
 
-## Käsitsemine
+## Käsitse&shy;mine
 
 Kuna GoPro keskendub nn action- ja spordikaamerate tootmisele, on tegemist üsna vastupidava ja lihtsa seadmega. Nagu ikka, on kaamera kõige õrnemaks detailiks läätsed. 360-kaamerate eripära tõttu tungivad need korpusest "kalasilmana" esile, mistõttu on **oluline jälgida kaamera asendit** kui see ilma vutlarita kõvale pinnale asetada.
 
@@ -448,18 +448,18 @@ Toon allpool välja inglise ja vene keelsed käsklused koos väikese selgitusega
 #### Inglise ja vene keeles
 
 <f-value set="commands" :value="[
-  { en: 'GoPro Start Recording', ru: 'GoPro снимай видео', et: 'Alustab filmimist' },
-  { en: 'GoPro Stop Recording',  ru: 'GoPro стоп видео', et: 'Lõpetab filmimise' },
-  { en: 'GoPro HiLight või <br>That Was Sick või <br>Oh Shit',  ru: 'sama, mis inglise', et: 'Märgib filmimise ajal video failis ära &quot;ägeda koha&quot;, et neid hiljem lihtsam leida oleks.' },
+  { en: 'GoPro Start Recor&shy;ding', ru: 'GoPro снимай видео', et: 'Alustab filmi&shy;mist' },
+  { en: 'GoPro Stop Recor&shy;ding',  ru: 'GoPro стоп видео', et: 'Lõpetab filmi&shy;mise' },
+  { en: 'GoPro HiLight või <br>That Was Sick või <br>Oh Shit',  ru: 'sama, mis inglise', et: 'Märgib filmi&shy;mise ajal video failis ära &quot;ägeda koha&quot;, et neid hiljem lihtsam leida oleks.' },
   { en: 'GoPro Take a Photo',  ru: 'GoPro снимай фото', et: 'Teeb pildi' },
   { en: 'GoPro Shoot Burst',  ru: 'GoPro снимай серию', et: '<var>Burst</var> on kiirelt üles võetud seeria pilte - nagu lühike video ilma helita' },
-  { en: 'GoPro Start Time Lapse',  ru: 'GoPro снимай таймлапс', et: '<var>Timelapse</var> on seeria kindla intervalli järel üles võetud pilte. Käsklus alustab *timelapse* seeria ülesvõtmist' },
-  { en: 'GoPro Stop Time Lapse',  ru: 'GoPro стоп таймлапс', et: 'Lõpetab *timelapse*' },
+  { en: 'GoPro Start Time Lapse',  ru: 'GoPro снимай тайм&shy;лапс', et: '<var>Time&shy;lapse</var> on seeria kindla inter&shy;valli järel üles võetud pilte. Käsklus alustab *time&shy;lapse* seeria üles&shy;võtmist' },
+  { en: 'GoPro Stop Time Lapse',  ru: 'GoPro стоп тайм&shy;лапс', et: 'Lõpetab *time&shy;lapse*' },
   { en: 'GoPro Video Mode',  ru: 'GoPro режим видео', et: 'Läheb video režiimi' },
-  { en: 'GoPro Photo Mode',  ru: 'GoPro режим фото', et: 'Läheb pildistamise režiimi' },
-  { en: 'GoPro Time Lapse Mode',  ru: 'GoPro режим таймлапс', et: 'Läheb *timelapse* režiimi' },
+  { en: 'GoPro Photo Mode',  ru: 'GoPro режим фото', et: 'Läheb pildista&shy;mise režiimi' },
+  { en: 'GoPro Time Lapse Mode',  ru: 'GoPro режим тайм&shy;лапс', et: 'Läheb *time&shy;lapse* režiimi' },
   { en: 'GoPro Burst Mode',  ru: 'GoPro режим серия', et: 'Läheb *burst* režiimi' },
-  { en: 'GoPro Turn Off',  ru: 'GoPro выключись', et: 'Paneb kaamera kinni' },
+  { en: 'GoPro Turn Off',  ru: 'GoPro выклю&shy;чись', et: 'Paneb kaamera kinni' },
 ]" />
 
 <f-table
@@ -491,7 +491,7 @@ Häälkäsklused on olemas lisaks veel saksa, prantsuse, itaalia, portugali, his
 | 4 5
 | 6 6
 
-## Failide import ja renderdamine
+## Failide import ja render&shy;damine
 
 -
 
@@ -545,7 +545,7 @@ PS: Uuemate GoPro kaamerate jaoks on kasutusel juba teised rakendused, lisainfot
 | 1 1
 | 2 3
 
-## Failide kustutamine
+## Failide kustuta&shy;mine
 
 -
 
