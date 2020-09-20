@@ -55,7 +55,7 @@ import {
             edit="none" 
             typebutton="false" 
             title="GoPro360" 
-            menu="show" 
+            menu="hide" 
             :content="content" />
       </f-fetch>
       

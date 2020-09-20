@@ -30,6 +30,7 @@
 | 2 3 4
 | 2 5 6
 | 2 7 8
+| 9 9 9
 
 
 ## Miks seda vaja on? 🤷‍♂️
@@ -84,7 +85,9 @@ Kursuse lõpuks on kõigil meist taoliste materjalide loomise esmased teadmised 
     <iframe src="https://www.youtube.com/embed/c53PhSc1Yeo?start=43" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
+-
 
+<f-next-button title="Edasi: Kursusest" />
 
 ---
 
@@ -102,6 +105,7 @@ Kursuse lõpuks on kõigil meist taoliste materjalide loomise esmased teadmised 
 | rows: auto
 | 1 1
 | 2 3
+| 4 4
 
 ## Kursusest
 
@@ -127,9 +131,14 @@ Mina, kursuse autor, olen Kuressaare ametikooli disaini- ja tehnoloogiaosakondad
 
 <blockquote>
 
-Erinevate teemade vahel saab liikuda vasakul menüüst või lihtsalt klaviatuuri nooleklahvide <kbd>vasak</kbd> / <kbd>parem</kbd> abil. Sama rolli täidavad ka üleval paremas nurgas olevad <f-leftarrow-icon /> <f-rightarrow-icon /> noolekesed. Proovi järgi, mine järgmisele lehele, siin pole enam midagi passida.
+Siin all on nupp, kust pääseb edasi. Teemade vahel saab liikuda veel vasakul menüüst <f-menu-icon /> või lihtsalt klaviatuuri nooleklahvide <kbd>vasak</kbd> / <kbd>parem</kbd> abil. Sama rolli täidavad ka üleval paremas nurgas olevad <f-leftarrow-icon /> <f-rightarrow-icon /> noolekesed. 
 
 </blockquote>
+
+-
+
+<f-next-button title="Edasi: Teemad" />
+
 
 ---
 
@@ -139,9 +148,10 @@ Erinevate teemade vahel saab liikuda vasakul menüüst või lihtsalt klaviatuuri
 
 | section: Kursuse teemad
 | rows: auto
-| 1 1 1 1 1 1
-| 2 2 3 3 4 4
-| 5 5 5 5 5 5
+| 1 1 1
+| 2 3 4
+| 5 5 5
+| 6 6 6
 
 ## Kursuse teemad
 
@@ -185,6 +195,10 @@ Kursuse läbimiseks on vajalik mõningane **inglise keele oskus**, et tutvuda li
 
 </blockquote>
 
+-
+
+<f-next-button title="Edasi: 360° kaamera" />
+
 ---
 
 
@@ -203,6 +217,7 @@ Kursuse läbimiseks on vajalik mõningane **inglise keele oskus**, et tutvuda li
 | 2 3
 | 4 5
 | 6 7
+| 8 8
 
 ## 360° kaamera
 
@@ -240,6 +255,10 @@ Lõpptulemus on kõige tavalisem videofail.
     <iframe src="https://www.youtube.com/embed/gIoKlTHkqJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
+-
+
+<f-next-button title="Edasi: Gopro Fusion" />
+
 ---
 
 
@@ -249,6 +268,7 @@ Lõpptulemus on kõige tavalisem videofail.
 | section: Gopro Fusion 360°
 | 1 1
 | 2 3
+| 4 4
 | cols: 2fr 3fr
 
 
@@ -271,15 +291,13 @@ Lisame ka ühe sissejuhatava video, ent põhjalikum huviline saab muidugi omal k
 
 </blockquote>
 
-
-
-
-
 -
 
 <f-video src="https://www.youtube.com/watch?v=xqMfYKNyVNo" />
 
+-
 
+<f-next-button title="Edasi: Kaamera käsitsemine" />
 
 ---
 
@@ -293,6 +311,7 @@ Lisame ka ühe sissejuhatava video, ent põhjalikum huviline saab muidugi omal k
 | section: Käsitsemine
 | 1 3
 | 2 3
+| 4 4
 | cols: 3fr 2fr
 
 ## Käsitse&shy;mine
@@ -319,6 +338,10 @@ Kaamera **aku laadimine** ja **failide import** toimub tavalise **USB-C** laadij
   <img src="./img/gopro-fusion.jpg" style="max-width:260px;" />
 </figure>
 
+-
+
+<f-next-button title="Edasi: Seadistamine" />
+
 ---
 
 
@@ -333,6 +356,7 @@ Kaamera **aku laadimine** ja **failide import** toimub tavalise **USB-C** laadij
 | 1 1 1
 | 2 3 3
 | 4 5 6
+| 7 7 7
 
 ## <img src="./img/icon-settings-bg.svg" class="gopro-icon" /> Fusioni seadis&shy;tamine
 
@@ -366,6 +390,10 @@ Nagu ikka, on kogu see informatsioon enamasti juba kusagil olemas. Lisan mõne v
     <iframe src="https://www.youtube.com/embed/yYM_0tYLuGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
+-
+
+<f-next-button title="Edasi: Mobiiliäpp" />
+
 ---
 
 
@@ -378,6 +406,7 @@ Nagu ikka, on kogu see informatsioon enamasti juba kusagil olemas. Lisan mõne v
 | 1 1 1
 | 2 3 3
 | 4 5 6
+| 7 7 7
 
 
 ## <img src="./img/icon-connect-bg.svg" class="gopro-icon" /> Mobiili&shy;rakendus
@@ -420,7 +449,9 @@ Vahel on probleeme kaamera ja telefoni (enamasti esmakordsel) ühendamisel. Siin
     <iframe src="https://www.youtube.com/embed/DBqPUuQQb1Y?start=655" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
-<!-- Mo9k4OvwkK0 -->
+-
+
+<f-next-button title="Edasi: Häälkäsklused" />
 
 ---
 
@@ -430,6 +461,7 @@ Vahel on probleeme kaamera ja telefoni (enamasti esmakordsel) ühendamisel. Siin
 | 1 1
 | 2 3
 | 4 4
+| 5 5
 
 ## <img src="./img/icon-voice-bg.svg" class="gopro-icon" /> Hääl&shy;käsklused
 
@@ -481,6 +513,10 @@ Toon allpool välja inglise ja vene keelsed käsklused koos väikese selgitusega
 Vajadusel leiab lisainfot <f-link to="https://community.gopro.com/t5/en/What-Are-the-Voice-Control-Commands/ta-p/390204">GoPro lehelt</f-link>.
 Häälkäsklused on olemas lisaks veel saksa, prantsuse, itaalia, portugali, hispaania, hiina ja jaapani keeles. Tõenäoliselt lihtsaim viis vastavate käskluste leidmiseks on ülalpool mainitud lehel olles maakera kujulisel ikoonil klikkides oma asukoht ja keel ära vahetada - siis kuvatakse käsklusi vastavas keeles.
 
+-
+
+<f-next-button title="Edasi: Failid arvutisse" />
+
 ---
 
 
@@ -495,6 +531,7 @@ Häälkäsklused on olemas lisaks veel saksa, prantsuse, itaalia, portugali, his
 | 2 3
 | 4 5
 | 6 6
+| 7 7
 
 ## Failide import ja render&shy;damine
 
@@ -537,6 +574,9 @@ Esimeses videos pole käsitletud varianti, kus failid ei asu mitte enam kaameras
 
 PS: Uuemate GoPro kaamerate jaoks on kasutusel juba teised rakendused, lisainfot leiab <f-link to="https://community.gopro.com/t5/en/GoPro-MAX-Exporter/ta-p/413311">nende lehelt</f-link>. Sama lugu kõikide teiste tootjate kaameratega.
 
+-
+
+<f-next-button title="Edasi: Failide kustutamine" />
 
 ---
 
@@ -549,6 +589,7 @@ PS: Uuemate GoPro kaamerate jaoks on kasutusel juba teised rakendused, lisainfot
 | cols: 1fr 2fr
 | 1 1
 | 2 3
+| 4 4
 
 ## Failide kustuta&shy;mine
 
@@ -564,6 +605,9 @@ Siin vastav väljavõte inglise keelsest kasutusjuhendist.
 
 <img src="./img/reformat-sd.png" />
 
+-
+
+<f-next-button title="Edasi: Ülesanne" />
 
 ---
 
@@ -585,5 +629,9 @@ Siin vastav väljavõte inglise keelsest kasutusjuhendist.
 ~Tee pilti; tee videot; installeeri telefoni Gopro äpp ja proovi kaameraga ühendust saada; katseta häälkäsklusi; ühenda kaamera arvutiga; tõmba pildid/videod arvutisse; jaga neid sõpradega; alusta otsast peale;~
 
 ~Kustuta kaamerast failid ära ka.~
+
+&nbsp;
+
+<f-next-button title="Edasi: 360° foto" />
 
 </center>

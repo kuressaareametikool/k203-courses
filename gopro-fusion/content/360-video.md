@@ -3,6 +3,7 @@
 | section: Video seaded
 | 1 1
 | 2 3
+| 4 4
 
 ## <img src="./img/icon-video-bg.svg" class="gopro-icon" /> Video 
 
@@ -27,6 +28,10 @@ Video seadetes on oluline märkida **kahte erinevat resolutsiooni:**.
 
 
 
+-
+
+<f-next-button title="Edasi: Võtame!" />
+
 ---
 
 
@@ -41,6 +46,7 @@ Video seadetes on oluline märkida **kahte erinevat resolutsiooni:**.
 | 1 1
 | 2 3
 | 4 5
+| 6 6
 
 ## Näidis&shy;võte
 
@@ -81,6 +87,10 @@ Naabrinaine tuleb pakub keset võtet kurki...
 **Võte 4**
 See on siis see, mis lõpuks videosse jõudis. Saab muidugi paremini, aga ehk ajab asja ära. Alguse asi.
 
+-
+
+<f-next-button title="Edasi: Montaaž" />
+
 ---
 
 
@@ -93,6 +103,7 @@ See on siis see, mis lõpuks videosse jõudis. Saab muidugi paremini, aga ehk aj
 | cols: 2fr 3fr
 | 1 1
 | 2 3
+| 4 4
 
 ## Montaaž Pre&shy;miere's
 
@@ -114,7 +125,9 @@ Siinne esimene video käsitleb peamiselt projekti ettevalmistust, meediafailide 
     <iframe src="https://www.youtube.com/embed/vtBZx_P9DfM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
+-
 
+<f-next-button title="Edasi: 360° video loomine" />
 
 ---
 
@@ -123,10 +136,11 @@ Siinne esimene video käsitleb peamiselt projekti ettevalmistust, meediafailide 
 
 
 
-| section: 360° video
+| section: 360° video loomine
 | 1 1
 | 2 3
 | 4 5
+| 6 6
 
 ## 360° video töötle&shy;mine
 
@@ -152,6 +166,10 @@ Teine video näitab esimese video käigus loodud **tulemust**.
     <iframe src="https://www.youtube.com/embed/tLMRm7z5Oxg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
+-
+
+<f-next-button title="Edasi: Overcapture meetod" />
+
 ---
 
 
@@ -160,6 +178,7 @@ Teine video näitab esimese video käigus loodud **tulemust**.
 | 1 1
 | 2 3
 | 4 5
+| 6 6
 
 ## Reframe või Over&shy;capture meetod
 
@@ -186,6 +205,10 @@ Ja teine näitab jälle esimese käigus loodud **tulemust**.
     <iframe src="https://www.youtube.com/embed/gIoKlTHkqJk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
+-
+
+<f-next-button title="Edasi: Ülesanne 3" />
+
 ---
 
 
@@ -202,6 +225,10 @@ Ja teine näitab jälle esimese käigus loodud **tulemust**.
 
 ~Jaga seda oma sõprade või õpilastega~
 ~Seejuures võid kasutada ka GoPro Fusion kaamerat~
+
+&nbsp;
+
+<f-next-button title="Edasi: Peaaegu kõik" />
 
 <!-- <f-hr style="width:100%; margin-top:5vh;" />
 

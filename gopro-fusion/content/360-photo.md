@@ -7,6 +7,7 @@
 | 2 2
 | 3 4
 | 5 6
+| 7 7
 
 ## <img src="./img/icon-photo-bg.svg" class="gopro-icon" /> Pildista&shy;mine
 
@@ -57,7 +58,9 @@ Video GPR/RAW tööprotsessist
     <iframe src="https://www.youtube.com/embed/9IwG3p5MZek" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
+-
 
+<f-next-button title="Edasi: Pilditöötlus" />
 
 ---
 
@@ -106,7 +109,7 @@ Siin video, kus on juttu statiivi ja/või selle varju piltidelt eemaldamisest ü
 
 -
 
-
+<f-next-button title="Edasi: Virtuaaltuurid" />
 
 
 ---
@@ -125,6 +128,7 @@ Siin video, kus on juttu statiivi ja/või selle varju piltidelt eemaldamisest ü
 | 2 3
 | 4 5
 | 6 7
+| 8 8
 
 ## 360° virtuaal&shy;tuur
 
@@ -181,6 +185,10 @@ Muidugi, niipea kui mängu tuleb kodeerimine, on võimalused lõputud. Aga ka ko
 - <f-link to="https://facebook.github.io/react-360/">React 360</f-link>
 - jne
 
+-
+
+<f-next-button title="Edasi: Ülesanne 2" />
+
 ---
 
 
@@ -220,5 +228,9 @@ Lisaküsimus: millistest Fusioni kaameraga 360° foto tegemise moodustest siin m
 </details>
 
 </f-inline>
+
+&nbsp;
+
+<f-next-button title="Edasi: 360° video" />
 
 </center>
