@@ -114,20 +114,19 @@ Kursuse lõpuks on kõigil meist taoliste materjalide loomise esmased teadmised 
 Koolitust toetatakse projektist **"Kaasaegse ja uuendusliku õppevara arendamine ja kasutuselevõtt"** 
 "Innovatsioonilabor (2018-2021)"
 
-<f-image src="./img/el_struktuuri-ja-investeerimisfondid__hor.svg" style="--image-height:50vh; --image-min-height: 300px; --image-size:contain; --image-position: center; max-width:300px;" />
+<f-image src="./img/el_struktuuri-ja-investeerimisfondid__hor.svg" style="--image-height:40vh; --image-min-height: 240px; --image-size:contain; --image-position: center; max-width:300px;" />
 
 -
 
 #### Sihtgrupp
 
-Esmane sihtgrupp on Kuressaare ametikooli, Kuressaare Vanalinna kooli ja Saaremaa ühisgümnaasiumi koolide õpetajad. **Kursuse eesmärgiks on olla abiks õpetajatele esimeste sammude tegemisel 360° piltide ja videote kasutamisel õppetöös**. Teine sihtgrupp on kõik teemast huvitunud.
+Esmane sihtgrupp on Kuressaare Ametikooli, Kuressaare Vanalinna kooli ja Saaremaa Ühisgümnaasiumi koolide õpetajad. **Kursuse eesmärgiks on olla abiks õpetajatele esimeste sammude tegemisel 360° piltide ja videote kasutamisel õppetöös**. Teine sihtgrupp on kõik teemast huvitunud.
 
-Kursuse käigus keskendume Kuressaare ametikooli Innovatsioonilaboris kasutusel olevatele riist- ja tarkvaralistele vahenditele ja ka juhendid on just neist lähtuvad ent samas peaks huviline siit saama ka üldisema ülevaate teemast. Tööprotsess teiste analoogsete vahenditega on laias laastus sama. 
+Kursuse käigus keskendume Kuressaare Ametikooli Innovatsioonilaboris kasutusel olevatele riist- ja tarkvaralistele vahenditele ja ka juhendid on just neist lähtuvad ent samas peaks huviline siit saama ka üldisema ülevaate teemast. Tööprotsess teiste analoogsete vahenditega on laias laastus sama. 
 
 #### Autor
 
-Mina, kursuse autor, olen Kuressaare ametikooli disaini- ja tehnoloogiaosakondade õpetaja Oliver Maaker. Varasemat kogemust teemasse sisuliselt ei oma, seega täpselt õige inimene algajaile värskeid kogemusi edastama :) 
-
+Mina, kursuse autor, olen Kuressaare Ametikooli disaini- ja tehnoloogiaosakondade õpetaja Oliver Maaker. Varasemat kogemust teemasse sisuliselt ei oma, seega täpselt õige inimene algajaile värskeid kogemusi edastama :) 
 
 <blockquote>
 
@@ -311,26 +310,26 @@ Lisame ka ühe sissejuhatava video, ent põhjalikum huviline saab muidugi omal k
 | section: Käsitsemine
 | 1 3
 | 2 3
-| 4 4
+| 4 3
 | cols: 3fr 2fr
 
 ## Käsitse&shy;mine
 
-Kuna GoPro keskendub nn action- ja spordikaamerate tootmisele, on tegemist üsna vastupidava ja lihtsa seadmega. Nagu ikka, on kaamera kõige õrnemaks detailiks läätsed. 360-kaamerate eripära tõttu tungivad need korpusest "kalasilmana" esile, mistõttu on **oluline jälgida kaamera asendit** kui see ilma vutlarita kõvale pinnale asetada.
+👉 Kuna GoPro keskendub nn action- ja spordikaamerate tootmisele, on tegemist üsna vastupidava ja lihtsa seadmega. Nagu ikka, on kaamera kõige õrnemaks detailiks läätsed. 360-kaamerate eripära tõttu tungivad need korpusest "kalasilmana" esile, mistõttu on **oluline jälgida kaamera asendit** kui see ilma vutlarita kõvale pinnale asetada.
 
-<f-image src="./img/gopro-maintenance.png" style="--image-size:contain; margin:5vh 0" />
+<img src="./img/gopro-maintenance.png" style="margin:3vh 0; max-width:800px;" />
 
-Kaamera küljes on enamasti ka **kolmjalg**, millele saab seadme mugavalt asetada, näiteks laadimise ja failide arvutisse transportimise ajaks. Kõrvalasuval pildil on kolmjalg suletuna – nii moodustab see lihtsalt mugava käepideme, millest kaamerat hoida. 
+👉 Kaamera küljes on enamasti ka **kolmjalg**, millele saab seadme mugavalt asetada, näiteks laadimise ja failide arvutisse transportimise ajaks. Kõrvalasuval pildil on kolmjalg suletuna – nii moodustab see lihtsalt mugava käepideme, millest kaamerat hoida. 
 
 <blockquote>
 
-👉 Käepidet kaamera suhtes pöörates ja välja tõmmates on võimalik seda pikendada ca 60cm pikkuseks. 
+Käepidet kaamera suhtes pöörates ja välja tõmmates on võimalik seda pikendada ca 60cm pikkuseks. 
 
 </blockquote>
 
 -
 
-Kaamera **aku laadimine** ja **failide import** toimub tavalise **USB-C** laadija või kaabli abil
+👉 Kaamera **aku laadimine** ja **failide import** toimub tavalise **USB-C** laadija või kaabli abil
 
 -
 

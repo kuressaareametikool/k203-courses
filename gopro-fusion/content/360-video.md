@@ -273,7 +273,7 @@ Lisaküsimus: ...
 
 ## Kuhu edasi?
 
-Tegelikult siit edasi ju alles õige lõbu ja võimaluste avastamine algab kui saame kombineerida fotot või videot ja virtuaalseid objekte, interaktiivsust jne. 
+Tegelikult siit edasi ju alles õige lõbu ja võimaluste avastamine nagu algaks kui saame kombineerida fotot või videot ja virtuaalseid objekte, interaktiivsust, animatsiooni jne. 
 
 Aga jätame selle vast juba järgmise kursuse teemaks :)
 
