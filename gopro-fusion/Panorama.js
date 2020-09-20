@@ -27,7 +27,7 @@ export default {
       <a-entity id="rig" :rotation="rotation" 
         :animation="animated ? 'property: rotation; to:0 410 0; loop: true; dur: 80000;' : 'none'">  
         <a-camera fov="80" look-controls="reverseMouseDrag: true">
-          <a-cursor />
+          <!-- <a-cursor /> -->
         </a-camera>
       </a-entity>
 

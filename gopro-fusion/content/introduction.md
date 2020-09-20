@@ -1,16 +1,21 @@
 | chapter: Sissejuhatus
 | section: Avaleht
-| theme: blue
 | padding: 0
+| theme: blue
 
-<panorama src="./img/pano-summer__opt.jpg" rotation="0 -140 0" tint="hsl(35, 85%, 65%)"  />
+<div style="width:100%; height:100%; left:0; top:0; z-index:0; position:absolute;">
+    <panorama src="./img/pano-summer__opt.jpg" rotation="0 -140 0" tint="hsl(35, 85%, 65%)"  />
+</div>
 
-<div style="position:absolute; top:0; left:calc(250px + 2vmin); height:80vh; pointer-events:none; display:flex; justify-content:flex-start; flex-direction:column; padding:10vmin;">
-    <h1>360° kaamera kasutamine</h1>
+<div class="fp-text" style="pointer-events:none;">
+    <h1>360° kaamera kasu&shy;tamine</h1>
     <h3 style="margin-top:-1ch; font-weight:400; font-style:italic;">GoPro Fusion näitel</h3>
 </div>
 
-<f-next-button style="position:fixed; left:calc(250px + 2vmin + 10vmin); bottom:15vmin;" title="Alustame" />
+<div class="fp-text" style="top:initial; bottom:10vh;">
+    <f-next-button title="Alustame" />
+</div>
+
 
 ---
 
@@ -500,16 +505,16 @@ Selle jaoks on GoPro loonud rakenduse **GoPro Fusion Studio.**
 
 Vajadusel leiad siit enda masinasse installeerimiseks <f-link to="https://gopro.com/en/us/shop/softwareandapp/exporter-for-gopro-fusion-camera-formerly-gopro-fusion-studio-app/fusion-studio.html">Windowsi ja Maci versioonid</f-link>
 
-Siin kõrval videos* räägime pisut GoPro Studio abil kaamerast failide impordist ja renderdamisest.
+Siin kõrval videos räägime pisut GoPro Studio abil kaamerast failide impordist ja renderdamisest.
 
-<details>
+<!-- <details>
 
 <summary>Vigade parandus ja üks idee</summary>
 
 <small style="line-height:1">Videost läbi käiva mõiste <var>equirectangular projection</var> eesti vaste paistab olevat <var>täisnurkprojektsioon</var> <small>[<f-link to="https://taltech.ee/kursus/21885">TalTech</f-link>]</small>. Lisaks selgitan ma selle projektsiooni olemust ka mõnevõrra vildakalt lahti. Samas ei ole kaameraga töötamiseks seda kõike otseselt vaja teada, mistõttu jätaks teema praegu sinnapaika, huviline võib ise lisa otsida.
 Ometi tekkis siit idee, et 360-piltide abil saaks ehk kenasti ka taoliste projektsioonide olemust õpilastele selgitada? Kogu see geomeetria osa, mis seal toimub.</small>
     
-</details>
+</details> -->
 
 
 -

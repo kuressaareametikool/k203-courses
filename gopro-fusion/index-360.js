@@ -19,11 +19,11 @@ import {
   import Panorama from "./Panorama.js";
   Vue.component("panorama", Panorama);
   
-  import StyleHack from "./StyleHack.js";
-  Vue.component("stylehack", StyleHack);
+  // import StyleHack from "./StyleHack.js";
+  // Vue.component("stylehack", StyleHack);
   
-  import StyleHackFp from "./StyleHackFp.js";
-  Vue.component("stylehackfp", StyleHackFp);
+  // import StyleHackFp from "./StyleHackFp.js";
+  // Vue.component("stylehackfp", StyleHackFp);
 
 
   // Set up a global event bus
@@ -45,7 +45,7 @@ import {
     data: {},
   
     template: `
-    <div>
+    <div style="--content-padding: var(--base5)">
     
       <f-fetch :src="[
           './content/introduction.md', './content/360-photo.md', './content/360-video.md'

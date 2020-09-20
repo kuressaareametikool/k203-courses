@@ -34,6 +34,11 @@
         .cell > h2 {
             margin-bottom: 5vh !important;
         }
+        .fp-text {
+            position:absolute; 
+            top:0; 
+            padding:10vh 10vw;
+        }
 
         @media (max-width: 800px){
             .cells {
@@ -52,12 +57,14 @@
                 width:calc(100% + (var(--content-padding) * 2));
                 margin-left:calc(var(--content-padding) * -1);
             }
+            
         }
     </style>
 </head>
 <body>
     <div id="fachwerk"></div>
-    <script src="https://unpkg.com/aframe"></script>
+    <!-- <script src="https://unpkg.com/aframe"></script> -->
+    <script src="https://unpkg.com/aframe/dist/aframe-master.min.js"></script>
     <script src="https://unpkg.com/aframe-rounded"></script>
     <script src="./index-360.js" type="module"></script>
 </body>

@@ -94,7 +94,7 @@ See on siis see, mis lõpuks videosse jõudis. Saab muidugi paremini, aga ehk aj
 | 1 1
 | 2 3
 
-## Montaaž Premiere's
+## Montaaž Pre&shy;miere's
 
 -
 
@@ -201,8 +201,9 @@ Ja teine näitab jälle esimese käigus loodud **tulemust**.
 ## ~Tee midagi vahvat!~
 
 ~Jaga seda oma sõprade või õpilastega~
+~Seejuures võid kasutada ka GoPro Fusion kaamerat~
 
-<f-hr style="width:100%; margin-top:5vh;" />
+<!-- <f-hr style="width:100%; margin-top:5vh;" />
 
 
 <f-inline>
@@ -221,7 +222,7 @@ Lisaküsimus: ...
 
 </details>
 
-</f-inline>
+</f-inline> -->
 
 </center>
 
@@ -240,9 +241,37 @@ Lisaküsimus: ...
 
 
 | chapter: Kokkuvõtteks
-| section: OK
+| section: Kuhu edasi?
+| cols: 1fr 3fr
 
-## Novot siis
+## Kuhu edasi?
 
-***kirjutada lõpp***
+Tegelikult siit edasi ju alles õige lõbu ja võimaluste avastamine algab kui saame kombineerida fotot või videot ja virtuaalseid objekte, interaktiivsust jne. 
+
+Aga jätame selle vast juba järgmise kursuse teemaks :)
+
+## Aitäh!
+
+-
+
+<a-scene embedded style="min-height:60vh;">
+    <a-entity id="rig" rotation="0 100 0" animation="rotation; to:0 410 0; loop: true; dur: 80000;">  
+        <a-camera fov="105" look-controls="reverseMouseDrag: true">
+          <!-- <a-cursor /> -->
+        </a-camera>
+    </a-entity>
+    <a-sky id="sky"
+        src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Kultorvet_360%C2%B0.jpg" 
+        color="hsl(35, 85%, 65%)">
+    </a-sky>
+    <a-entity 
+        scale="2 2 2" 
+        geometry="primitive: box" 
+        rotation="0 0 0" 
+        position="-4 4 0" 
+        material="color: magenta; metalness:1; roughness: 0.1; sphericalEnvMap: #sky;" 
+        animation="easing: linear; property: rotation; dur:10000; from: 0 30 0; to: 0 30 360; repeat: indefinite; loop:true;">
+      </a-entity>
+      <a-image src="./img/intro.png" position="0 -4 0" rotation="-90 -90 180" width="18" height="18" animation="easing: linear; property: rotation; dur:20000; from: -90 -90 180; to: -90 270 180; repeat: indefinite; loop:true;"></a-image>
+</a-scene> 
 
