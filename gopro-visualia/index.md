@@ -1,19 +1,18 @@
 | chapter: Sissejuhatus
-| Title: Alustame
+| title: Alustame
 | theme: dark
 | padding: 0
 
 <Panorama src="./img/pano.jpg" rotation="0 60 0" tint="hsl(30, 80%, 50%)"  />
 
-
 # Alustame
 
-<div style="position:absolute; top:0; left:0; width:100vw; height:100vh; pointer-events:none; display:flex; justify-content:flex-start; flex-direction:column; padding:15vmin">
+<!-- <div style="position:absolute; top:0; left:0; width:100vw; height:100vh; pointer-events:none; display:flex; justify-content:flex-start; flex-direction:column; padding:15vmin">
     <h1>360° kaamera kasutamine</h1>
     <h3 style="margin-top:0">GoPro Fusion näitel</h3>
-</div>
+</div> -->
 
-<f-next-button style="position:fixed; left:15vmin; bottom:15vmin;" title="Alustame" /><stylehackfp />
+<v-next-button style="position:fixed; left:15vmin; bottom:15vmin;" title="Alustame" />
 
 ---
 
@@ -29,10 +28,9 @@
 
 
 | section: Kursuse teemad
-| rows: auto
-| 1 1 1 1 1 1
-| 2 2 3 3 4 4
-| 5 5 5 6 6 6
+| 1 1 1
+| 2 3 4
+| 5 5 6
 
 # Kursuse teemad
 
@@ -79,9 +77,6 @@ Kursuse läbimiseks on vajalik piisav **inglise keele oskus**, et tutvuda lingit
 
 </blockquote>
 
-<stylehack />
-
-
 ---
 
 
@@ -127,7 +122,10 @@ Kaamera küljes on enamasti ka **kolmjalg**, millele saab seadme mugavalt asetad
 ---
 
 
-| section: Videotutvustus
+
+
+
+| title: Fusioni seadistamine
 | 1 2
 | 3 2
 | cols: 2fr 3fr
@@ -165,6 +163,7 @@ Siit leiab ka üldise <f-link to="https://gopro.com/content/dam/help/fusion/manu
 
 
 | section: Seadistamine
+| title: Fusioni seadistamine
 | 1 2
 | cols: 1fr 2fr
 
@@ -195,6 +194,7 @@ Kaamera korpusel on kaks nuppu, <img src="./img/gopro-button__mode.svg" class="g
 
 
 | section: Mobiilirakendused
+| title: Mobiilirakendused
 | 1 2
 | cols: 1fr 2fr
 

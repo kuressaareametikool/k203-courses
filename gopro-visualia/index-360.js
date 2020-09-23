@@ -1,7 +1,5 @@
 import { visualia } from "https://visualia.github.io/visualia/dist/visualia.js";
 import Panorama from "./Panorama.js";
-import StyleHack from "./StyleHack.js";
-import StyleHackFp from "./StyleHackFp.js";
 
   // Register components globally
   
@@ -21,7 +19,7 @@ import StyleHackFp from "./StyleHackFp.js";
 
 
   visualia({
-    components: { Panorama, StyleHack, StyleHackFp }
+    components: { Panorama }
   });
 
   // Set up a global event bus
