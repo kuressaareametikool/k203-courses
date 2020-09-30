@@ -123,7 +123,7 @@ Kursuse läbimiseks on vajalik mõningane <strong>inglise keele oskus</strong>>,
 -
 
 <div class="right">
-    <f-next-button title="Edasi: Blenderi kasutajaliides" />
+    <f-next-button title="Edasi: 3D graafika programmid" />
 </div>
 
 ---
