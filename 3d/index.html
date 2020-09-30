@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D graafika elemendid ja töövõtted</title>
+    <link rel="stylesheet" href="https://designstem.github.io/fachwerk/fachwerk.css">
+    <style>
+        /* .menu{border-right:1px solid var(--lightergray); box-shadow:0 0 var(--base) 0 hsla(0,0%,0%,0.1) inset} */
+        .video-responsive{
+            overflow:hidden;
+            padding-bottom:56.25%;
+            position:relative;
+            height:0;
+        }
+        .video-responsive iframe{
+            left:0;
+            top:0;
+            height:100%;
+            width:100%;
+            position:absolute;
+        }
+        .cell > h2 {
+            margin-bottom: 5vh !important;
+        }
+        .right {
+            text-align: right;
+        }
+        .icon-big {
+            font-size: 10em;
+        }
+        .lmb, .mmb, .rmb {
+            position: relative;
+            display: inline-block;
+            width: 17px;
+            height: 21px;
+            border: 2px solid;
+            border-radius: 6px 6px 8px 8px;
+            transform: translate(0, 4px);
+        }
+        .lmb:before, .mmb:before, .rmb:before {
+            content: "";
+            display: block;
+            position: absolute;
+            border-radius: 3px 0 2px 0;
+            width: 17px;
+            height: 2px;
+            background: currentColor;
+            opacity: 0.2;
+            top: 7px;
+            left: -2px;
+        }
+        .lmb::after {
+            content: "";
+            display: block;
+            position: absolute;
+            border-radius: 3px 0 2px 0;
+            width: 6px;
+            height: 7px;
+            background: currentColor;
+            top: 0px;
+            left: 0px;
+
+        }
+        .rmb::after {
+            content: "";
+            display: block;
+            position: absolute;
+            border-radius: 0 3px 0 2px;
+            width: 6px;
+            height: 7px;
+            background: currentColor;
+            top: 0px;
+            right: 0px;
+        }
+        .mmb::after {
+            content: "";
+            display: block;
+            position: absolute;
+            border-radius: 3px;
+            width: 3px;
+            height: 6px;
+            background: currentColor;
+            top: 1px;
+            right: 5px;
+        }
+        kbd {
+            background: transparent;
+            color: var(--darkgray);
+            font-size: 0.9em;
+            border: 2px solid currentColor;
+            border-radius: 6px;
+        }
+        canvas:focus {
+            outline: none;
+        }
+        @media (max-width: 800px){
+            .cells {
+                padding: calc(var(--content-padding-w) * 0.5)  !important;
+            }
+            .video-responsive{
+                overflow:visible;
+                padding-bottom:68%;
+                position: relative;
+            }
+            .video-responsive iframe{
+                position:absolute;
+                left:0;
+                top:0;
+                height:100%;
+                width:calc(100% + (var(--content-padding) * 2));
+                margin-left:calc(var(--content-padding) * -1);
+            }
+            
+        }
+    </style>
+</head>
+<body>
+    <div id="fachwerk"></div>
+    <script src="./index.js" type="module"></script>
+</body>
+</html>
