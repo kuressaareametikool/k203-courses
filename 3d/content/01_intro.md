@@ -62,8 +62,8 @@ Siin all on nupp, kust pääseb edasi. Teemade vahel saab liikuda veel vasakul m
 <img src="./img/el_struktuuri-ja-investeerimisfondid__hor.svg" style="--image-height:40vh; --image-min-height: 240px; --image-size:contain; --image-position: center; max-width:300px;" />
 <br>
 <small>
-Kursust toetatakse projektist <strong>"Kaasaegse ja uuendusliku õppevara arendamine ja kasutuselevõtt"</strong>
-       "Innovatsioonilabor (2018-2021)"
+Kursust toetatakse projektist <strong>"Kaasaegse ja uuendusliku õppevara arendamine ja kasutuselevõtt"</strong>"Innovatsioonilabor (2018-2021)".
+Kursus on ehitatud <f-link to="https://designstem.github.io/fachwerk/">Fachwerkile</f-link>
 </small>
 
 -
