@@ -63,7 +63,7 @@ Siin all on nupp, kust pääseb edasi. Teemade vahel saab liikuda veel vasakul m
 <br>
 <small>
 Kursust toetatakse projektist <strong>"Kaasaegse ja uuendusliku õppevara arendamine ja kasutuselevõtt"</strong>"Innovatsioonilabor (2018-2021)".
-Kursus on ehitatud <f-link to="https://designstem.github.io/fachwerk/">Fachwerkile</f-link>
+Kursus on ehitatud <f-link to="https://designstem.github.io/fachwerk/">Fachwerkile</f-link> ja asub <f-link to="https://github.com/kuressaareametikool/k203-courses">Githubis</f-link>
 </small>
 
 -
