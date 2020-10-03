@@ -37,7 +37,7 @@ Renderdame endale uue taustapildi! Vaatame renderdamise seaded, eemaldame müra 
 Animeerime jäätise ja taustaelemente, kasutame **empty**-sid ja **constraint**-e, ning renderdame animatsiooni välja. NB: Varu aega! Animatsiooni renderdamine on ajakulukas! Kui oled koolis, pane renderdama kõige võimsam arvuti, mis leiad!
 
 <blockquote>
-Võrdluseks - <a href="./files/j22tis.blend">lae alla valmis jäätis koos animatsiooni, tausta ja materjalidega</a>
+Võrdluseks - <a href="./files/j22tis.blend">lae alla valmis jäätis koos animatsiooni, tausta ja materjalidega .blend</a>
 </blockquote>
 
 -

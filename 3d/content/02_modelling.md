@@ -28,7 +28,7 @@ ISESEISVALT: Pane primitiividest kokku kompositsioon, näiteks majake või linna
 </blockquote>
 
 <blockquote>
-Võrdluseks - <a href="./files/primitiivid.blend">lae alla valmis primitiivid</a>
+Võrdluseks - <a href="./files/primitiivid.blend">lae alla valmis primitiivid .blend</a>
 </blockquote>
 
 -
@@ -62,7 +62,7 @@ Tähtis kiirklahv:
 Nagu lubatud, <f-link to="https://fonts.google.com/specimen/IBM+Plex+Sans">IBM Plex Sans</f-link>
 
 <blockquote>
-Võrdluseks - <a href="./files/3d_tekst.blend">lae alla valmis 3d tekst</a>
+Võrdluseks - <a href="./files/3d_tekst.blend">lae alla valmis 3d tekst .blend</a>
 </blockquote>
 
 -
@@ -89,6 +89,16 @@ Võrdluseks - <a href="./files/3d_tekst.blend">lae alla valmis 3d tekst</a>
 -
 
 Mis on jäätis? Milline ta välja näeb? Millest ta koosneb? Proovime nendele keerulistele küsimustele vastuseid leida.
+
+Näidispildid:
+
+<div class="grid" style="--cols: 1fr 1fr 1fr 1fr 1fr; --gap: 1em; --rows: 9em">
+    <a href="./img/j22tis (1).png" class="cover" style="background-image: url('./img/j22tis (1).png')"></a>
+    <a href="./img/j22tis (2).png" class="cover" style="background-image: url('./img/j22tis (2).png')"></a>
+    <a href="./img/j22tis (3).png" class="cover" style="background-image: url('./img/j22tis (3).png')"></a>
+    <a href="./img/j22tis (4).png" class="cover" style="background-image: url('./img/j22tis (4).png')"></a>
+    <a href="./img/j22tis (5).png" class="cover" style="background-image: url('./img/j22tis (5).png')"></a>
+</div>
 
 -
 
@@ -160,8 +170,17 @@ Olulised klahvid (*scultping* vaates):
 - <i class="lmb"></i> + <kbd>Ctrl</kbd> - võtab materjali ära
 - <i class="lmb"></i> + <kbd>Shift</kbd> - silub materjali
 
+Näidispildid:
+
+<div class="grid" style="--cols: 1fr 1fr 1fr 1fr 1fr; --gap: 1em; --rows: 9em">
+    <a href="./img/tops (1).png" class="cover" style="background-image: url('./img/tops (1).png')"></a>
+    <a href="./img/tops (2).png" class="cover" style="background-image: url('./img/tops (2).png')"></a>
+    <a href="./img/tops (3).png" class="cover" style="background-image: url('./img/tops (3).png')"></a>
+    <a href="./img/tops (4).png" class="cover" style="background-image: url('./img/tops (4).png')"></a>
+</div>
+<br>
 <blockquote>
-Võrdluseks - <a href="./files/vahvlitops.blend">lae alla valmis vahvlitops</a>
+Võrdluseks - <a href="./files/vahvlitops.blend">lae alla valmis vahvlitops .blend</a>
 </blockquote>
 
 -

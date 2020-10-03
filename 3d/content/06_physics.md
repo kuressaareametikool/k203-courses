@@ -13,7 +13,7 @@
 Tutvume kolme tüüpi füüsikasimulatsiooniga - tahkete, pehmete ja riidest objektide simuleerimisega. Viskame kümnekilose jäätise vastu 512 kuubikust koosnevat torni (mis kipub kokku kukkuma). 
 
 <blockquote>
-Võrdluseks - <a href="./files/fyysika.blend">lae alla valmis füüsikasimulatsioon</a>
+Võrdluseks - <a href="./files/fyysika.blend">lae alla valmis füüsikasimulatsioon .blend</a>
 </blockquote>
 
 -

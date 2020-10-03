@@ -14,7 +14,7 @@ Valmistame vahvlitopsi blenderis printimiseks ette - teeme topsi natuke paksemak
 Ekspordime objektid stl-formaati.
 
 <blockquote>
-Võrdluseks - <a href="./files/vahvlitops_printimiseks.blend">lae alla valmis 3D-printimiseks ettevalmistatud vahvlitops</a>
+Võrdluseks - <a href="./files/vahvlitops_printimiseks.blend">lae alla valmis 3D-printimiseks ettevalmistatud vahvlitops .blend</a>
 </blockquote>
 
 -
