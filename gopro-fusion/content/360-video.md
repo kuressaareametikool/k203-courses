@@ -44,11 +44,28 @@ Video seadetes on oluline märkida **kahte erinevat resolutsiooni:**.
 | section: Vaikust! Võtame!
 | cols: 2fr 3fr
 | 1 1
-| 2 3
-| 4 5
-| 6 6
+| 2 2
+| 3 4
+| 5 6
+| 7 7
 
 ## Näidis&shy;võte
+
+-
+
+<blockquote>
+
+### NB!
+
+Kindlasti tuleks võtete planeerimise ja heli salvestamise osa üle vaadata hiljem valminud Arni Otsa loodud alternatiivsest koolitusest, kus on näha kuidas töötab inimene, kellel antud alal ka mingi varasem kogemus on :)
+
+Arni koolituses on <f-link to="https://e-koolikott.ee/kogumik/28198-Video-heli-ja-graafilised-elemendid-Oppematerjali-loomine-360-foto-ja-videomaterjaliga#peatukk-3">tööprotsess Tascam helisalvestiga</f-link> põhjalikumalt kajastatud.
+
+Samuti <f-link to="https://e-koolikott.ee/kogumik/28198-Video-heli-ja-graafilised-elemendid-Oppematerjali-loomine-360-foto-ja-videomaterjaliga#peatukk-4">võtete planeerimise</f-link> ja <f-link to="https://e-koolikott.ee/kogumik/28198-Video-heli-ja-graafilised-elemendid-Oppematerjali-loomine-360-foto-ja-videomaterjaliga#peatukk-5">võtteprotsessi</f-link> osa.
+
+&nbsp;
+
+</blockquote>
 
 -
 
@@ -58,6 +75,7 @@ Võtte käigus kasutan **eraldi helisalvestit**. Seda muidugi ei pea alati tegem
 
 Kui ringi liikudes on kaamera meil eeldatavasti käes, on küsimus, kuidas või kuhu helisalvesti kinnitada. Paraku ei ole mul hetkel selle jaoks kasutada eraldi rinnamikrofone vms "päris" seadmeid. Videos näha olev känguru-koti meetod oleks töötanud päris hästi kui mikrofon poleks jäänud liikumisel vastu koti luku serva krabisema. Hiljem tegin pehme rätikuga salvesti jaoks kotti kena pesakese, mis edasi-tagasi kõikumist takistas. 
 <small style="line-height:1.1">*PS: Salvestit saab kruvida erinevate statiivide külge, samuti on kaasas eraldi külge kruvitav käepide. Võib-olla annab neist midagi mõistlikumat aretada kui känguru-kott.*</small>
+
 
 -
 
