@@ -374,7 +374,7 @@ Kaamera korpusel on kaks nuppu,
 
 -
 
-Nagu ikka, on kogu see informatsioon enamasti juba kusagil olemas. Lisan mõne video samal teemal.
+Nagu ikka, on kogu see informatsioon enamasti juba kusagil olemas. Siin üks video video samal teemal.
 
 -
 
@@ -384,10 +384,11 @@ Nagu ikka, on kogu see informatsioon enamasti juba kusagil olemas. Lisan mõne v
 
 -
 
+<!-- Video removed from YT -->
 
-<div class="video-responsive">
+<!-- <div class="video-responsive">
     <iframe src="https://www.youtube.com/embed/yYM_0tYLuGs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
-</div>
+</div> -->
 
 -
 
@@ -439,7 +440,7 @@ Vahel on probleeme kaamera ja telefoni (enamasti esmakordsel) ühendamisel. Siin
 -
 
 <div class="video-responsive">
-    <iframe src="https://www.youtube.com/embed/SXiYrBFf544" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
+    <iframe src="https://www.youtube.com/embed/6MCRGyRxNLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen ></iframe>
 </div>
 
 -
