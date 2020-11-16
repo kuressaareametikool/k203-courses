@@ -138,6 +138,18 @@ Teises peatükis oli paar 360° fotodest loodud virtuaaltuuri näidist. Siin vaa
 
 #### Google Poly
 
+<blockquote>
+
+## 🤷‍♂️
+
+**<span style="color: var(--red)">NB! Google teatas 2020. aasta novembris, et sulgeb siin näidetes kasutatud Google Poly VR tuuride loomise keskkonna 2021 suvel.</span>**
+
+Õnneks on meil olemas õpetus ka <f-link to="https://e-koolikott.ee/kogumik/28198-Video-heli-ja-graafilised-elemendid-Oppematerjali-loomine-360-foto-ja-videomaterjaliga#peatukk-7">Theasys.io keskkonnaga!</f-link>
+
+Allpool on veel lisanimekiri alternatiividega.  
+
+</blockquote>
+
 Veebis on mitmeid virtuaaltuuride arendamise keskkondi - suuremate ja vähemate võimalustega; tasuta, pooleldi tasulisi ja väga kalleid; aga alustaks siin võib-olla ühest lihtsamast - **Google Poly** poolt pakutavast tasuta teenusest. 
 
 - <f-link to="https://poly.google.com/tours">Google Poly tuurid</f-link>
