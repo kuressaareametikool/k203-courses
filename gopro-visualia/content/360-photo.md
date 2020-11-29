@@ -129,6 +129,7 @@ Siin video, kus on juttu statiivi ja/või selle varju piltidelt eemaldamisest ü
 
 
 | section: Virtuaaltuuri loomine
+| title: 360° virtuaaltuur
 | cols: 2fr 3fr
 | 1 1
 | 2 3
@@ -216,6 +217,7 @@ Muidugi, niipea kui mängu tuleb kodeerimine, on võimalused lõputud. Aga ka ko
 
 
 | section: ▩ Ülesanne 2
+| title: ▩ Ülesanne 2
 | theme: blue
 
 <center>
