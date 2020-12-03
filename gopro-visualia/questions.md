@@ -5,8 +5,8 @@
 - resposiveness üldiselt
 - mobiilses menüü kinni peale klikki
 - css paindlikumaks? mingi config või override võimalus / võimalus lõpuks themedeks
-- Headingud menüüsse - lisaks automaatsele ka mingi / hand-picking mode
-- 
+- Headingud menüüsse - lisaks automaatsele ka mingi hand-picking mode
+- Headingud menüüsse - praegu html-i ei parsita, läheb toores
 
 ## Komponendid / featuurid
 
