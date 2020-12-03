@@ -4,7 +4,7 @@
 
 
 
-Niissiis {{ set("asi", [{ "muna":"kott" }]) }}
+Niissiis {{ set( "asi", "muna" ) }} 
 
 <v-scene mode="svg" style="border:1px solid black; height:80vh;">
     <v-group position="12 20">
