@@ -4,9 +4,13 @@
 | padding: 0
 
 <div style="width: 100%; height: 100%; overflow: hidden; position: relative">
-    <intro />
+    <!-- <intro /> -->
     <div class="fp-text" style="pointer-events: none; position: absolute; left: 5vw; top: 5vw ">
-       <h1 style="font-size: 4em; color: var(--white)">3D graafika elemendid <br> ja töövõtted</h1>
+       <h1 style="
+       font-size: 4em; 
+       /* color: var(--white) */
+       ">
+       3D graafika elemendid <br> ja töövõtted</h1>
     </div>
 </div>
    

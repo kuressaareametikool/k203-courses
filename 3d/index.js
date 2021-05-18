@@ -19,8 +19,9 @@ for (const name in components) {
 //
 // import CustomComponent from "./CustomComponent.js";
 // Vue.component("custom-component", CustomComponent);
-import Intro from "./intro.js";
-Vue.component("intro", Intro);
+// TODO: FIX INTRO!
+// import Intro from "./intro.js";
+// Vue.component("intro", Intro);
 
 // import StyleHack from "./StyleHack.js";
 // Vue.component("stylehack", StyleHack);
